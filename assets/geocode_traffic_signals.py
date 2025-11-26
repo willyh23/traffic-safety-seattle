@@ -12,7 +12,7 @@ geolocator = Nominatim(user_agent="traffic_signals_geocoder")
 latitudes = []
 longitudes = []
 
-for address in df['unitdesc']:
+for address in df['UNITDESC']:
     try:
         # Add city and state for better accuracy
         location = geolocator.geocode(f"{address}, Seattle, WA")
