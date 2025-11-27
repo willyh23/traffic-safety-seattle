@@ -1,1 +1,0 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-122.342914, 47.637741]}, "properties": {"OBJECTID": 224769994, "COLDETKEY": 386657, "ST_AGE": 55.0, "ST_CONTRBCIR1_DESC": "Unknown Distraction", "ST_INJRY_CLSS_DESC": "No Injury", "ST_PARTCPNT_TYPE_DESC": "Motor vehicle driver", "ST_PED_ACT_DESC": 
