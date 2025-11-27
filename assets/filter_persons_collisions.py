@@ -3,8 +3,8 @@ import json
 from datetime import datetime
 
 # Input and output file names
-input_file = "person_collisions.geojson"
-output_file = "person_collisions_filtered.geojson"
+input_file = "persons_collisions.geojson"
+output_file = "persons_collisions_filtered.geojson"
 
 # Mapping of original fields to new readable names
 FIELD_MAPPING = {
