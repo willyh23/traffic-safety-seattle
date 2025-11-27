@@ -37,9 +37,9 @@ for feature in data.get("features", []):
     filtered_props = {}
     for original, new_name in FIELD_MAPPING.items():
         value = props.get(original)
-        if original == "INCDATE" and value not in [None, "", "null"]:
+        if original == "INCDATE" and value not in [None, "", "NA"]:
             value = format_date(value)
-        filtered_props[new_name] = value if value not in [None, "", "null"] else "null"
+        filtered_props[new_name] = value if value not in [None, "", "NA"] else "NA"
     feature["properties"] = filtered_props
 
 # Add CRS if missing
