@@ -1,0 +1,3397 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "id": 231915047,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.356955420602,
+          47.6359559069752
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-14",
+        "Report Number": "EF91667",
+        "Participant Type": "Pedestrian",
+        "Age": 36,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing at Intersection - No Signal",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232449909,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.360479083872,
+          47.5246933448886
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-04",
+        "Report Number": "3932585",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 31,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232449949,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.319996309244,
+          47.6478247091985
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-09",
+        "Report Number": "3931538",
+        "Participant Type": "Pedestrian",
+        "Age": 7,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing -  Non Intersection - No Crosswalk",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232450091,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.316928342509,
+          47.619936707118
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-02",
+        "Report Number": "3931530",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 34,
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232450117,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334463770332,
+          47.6111423977199
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-06",
+        "Report Number": "3924420",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 31,
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232449484,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.291987704428,
+          47.7227321538068
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-14",
+        "Report Number": "3929165",
+        "Participant Type": "Pedestrian",
+        "Age": 64,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing at Intersection - No Signal",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232449491,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.306245548178,
+          47.6129096210062
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-05",
+        "Report Number": "EF98148",
+        "Participant Type": "Pedestrian",
+        "Age": 37,
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "Crossing at Intersection with Signal",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232449537,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333172246556,
+          47.6030193931851
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-03",
+        "Report Number": "EG07173",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 32,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232450891,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.330268998455,
+          47.6537016864511
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-08",
+        "Report Number": "3930066",
+        "Participant Type": "Pedestrian",
+        "Age": 83,
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "All Other Actions",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232451664,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.302946653051,
+          47.5836585668479
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-04",
+        "Report Number": "EG07809",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 46,
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232450148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.314649686844,
+          47.5718885580744
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-04",
+        "Report Number": "3931684",
+        "Participant Type": "Pedestrian",
+        "Age": "NA",
+        "Injury Severity": "Unknown",
+        "Pedestrian Action": "Walking In Roadway with Traffic",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232449566,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.357767436854,
+          47.5264924348281
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-30",
+        "Report Number": "3932605",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 24,
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Unknown if DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232451670,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.364137529498,
+          47.6523011785389
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-28",
+        "Report Number": "3895759",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 52,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "All Other Actions",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232451702,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.387542220233,
+          47.679505923824
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-02",
+        "Report Number": "3930037",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 57,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "All Other Actions",
+        "Helmet Usage": "Other",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232450967,
+      "geometry": null,
+      "properties": {
+        "Incident Date": "2025-05-21",
+        "Report Number": "EF94090",
+        "Participant Type": "Pedestrian",
+        "Age": "NA",
+        "Injury Severity": "No Injury",
+        "Pedestrian Action": "Walking on Roadway Shoulder With Traffic",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Citizen Vehicle Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232450991,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.315262721348,
+          47.6631057973068
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-30",
+        "Report Number": "EG08250",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 13,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232451830,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.277870227407,
+          47.5515508194378
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-23",
+        "Report Number": "3931609",
+        "Participant Type": "Pedestrian",
+        "Age": 38,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing -  Non Intersection - No Crosswalk",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232450366,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332062246519,
+          47.6034838894815
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-17",
+        "Report Number": "3924431",
+        "Participant Type": "Pedal cycle driver",
+        "Age": "NA",
+        "Injury Severity": "Unknown",
+        "Pedestrian Action": "All Other Actions",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "NA",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232451081,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.329152797045,
+          47.6225498566864
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-17",
+        "Report Number": "3924494",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 29,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "Unknown if DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232450409,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38795657017,
+          47.5447460772948
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-16",
+        "Report Number": "3926061",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 32,
+        "Injury Severity": "No Injury",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Unknown if DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232451933,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.323401479412,
+          47.6140700106987
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-09-16",
+        "Report Number": "3943189",
+        "Participant Type": "Pedestrian",
+        "Age": 31,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing at Intersection - No Signal",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232452383,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32955138436,
+          47.5533993297023
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-08",
+        "Report Number": "EG08182",
+        "Participant Type": "Pedestrian",
+        "Age": 65,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing at Intersection with Signal",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232451987,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.312857342292,
+          47.5992175045302
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-24",
+        "Report Number": "3931547",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 47,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232450510,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.328470752973,
+          47.6079445253085
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-11",
+        "Report Number": "3930724",
+        "Participant Type": "Pedestrian",
+        "Age": 42,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Not in Roadway",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232452392,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32244685327,
+          47.6017034769283
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-28",
+        "Report Number": "EF99192",
+        "Participant Type": "Pedestrian",
+        "Age": 52,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing at Intersection with Signal",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232452132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.316780892576,
+          47.6051964192384
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-05",
+        "Report Number": "EF89034",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 28,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232452151,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.329103075555,
+          47.57167786563
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-05",
+        "Report Number": "3931645",
+        "Participant Type": "Pedestrian",
+        "Age": 83,
+        "Injury Severity": "Dead At Scene",
+        "Pedestrian Action": "All Other Actions",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232451225,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332979770566,
+          47.6196619695106
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-04",
+        "Report Number": "3924528",
+        "Participant Type": "Pedestrian",
+        "Age": 36,
+        "Injury Severity": "Unknown",
+        "Pedestrian Action": "Crossing at Intersection - No Signal",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232452163,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33578172432,
+          47.6058726172873
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-04",
+        "Report Number": "EF99385",
+        "Participant Type": "Pedestrian",
+        "Age": 31,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "At Intersection Not Using Crosswalk",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232452192,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335373137011,
+          47.612136458366
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-18",
+        "Report Number": "3924486",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 35,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232451262,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.340687467644,
+          47.6642898681844
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-04",
+        "Report Number": "3930038",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 17,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "Unknown if DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232451276,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3149681081,
+          47.5230421816713
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-15",
+        "Report Number": "3930018",
+        "Participant Type": "Pedestrian",
+        "Age": 60,
+        "Injury Severity": "Dead At Scene",
+        "Pedestrian Action": "Crossing at Intersection Against Signal",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232452478,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.409989597607,
+          47.5793172167719
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-02",
+        "Report Number": "3926138",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 66,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding Against Traffic",
+        "Helmet Usage": "Other",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232452242,
+      "geometry": null,
+      "properties": {
+        "Incident Date": "2025-06-09",
+        "Report Number": "3931539",
+        "Participant Type": "Pedestrian",
+        "Age": "NA",
+        "Injury Severity": "Unknown",
+        "Pedestrian Action": "Not in Roadway",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232452509,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.301175570634,
+          47.6219725278031
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-23",
+        "Report Number": "EG13953",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 38,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Non DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232452286,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.346248386165,
+          47.6267143402867
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-29",
+        "Report Number": "EF96996",
+        "Participant Type": "Pedestrian",
+        "Age": 28,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "All Other Actions",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232453201,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.341333145454,
+          47.6138311865882
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-07",
+        "Report Number": "3929218",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 21,
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232452306,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34171893044,
+          47.622053521581
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-23",
+        "Report Number": "EF99485",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 29,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232452571,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.342204495112,
+          47.6149326920305
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-23",
+        "Report Number": "EF99483",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 47,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding Against Traffic",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232452308,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339741461812,
+          47.6246868613321
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-08-13",
+        "Report Number": "EG19325",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 29,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232452586,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.342407554589,
+          47.635995609856
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-08-13",
+        "Report Number": "EG19324",
+        "Participant Type": "Pedestrian",
+        "Age": 54,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing -  Non Intersection - In Crosswalk",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232452588,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27579767004,
+          47.6682965740821
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-08-04",
+        "Report Number": "EG17922",
+        "Participant Type": "Pedestrian",
+        "Age": 57,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Crossing at Intersection with Signal",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232451414,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.281104151046,
+          47.5370515868501
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-07",
+        "Report Number": "3931827",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 10,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding Against Traffic",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232454007,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334976019383,
+          47.6024153434188
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-08-26",
+        "Report Number": "EG22981",
+        "Participant Type": "Pedestrian",
+        "Age": 48,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Lying In Roadway",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232452654,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.322444692575,
+          47.5991861297073
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-28",
+        "Report Number": "EF97004",
+        "Participant Type": "Pedestrian",
+        "Age": 36,
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "Crossing at Intersection with Signal",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232451467,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.347887135894,
+          47.6153610042884
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-12",
+        "Report Number": "EF90925",
+        "Participant Type": "Pedestrian",
+        "Age": 69,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Crossing at Intersection with Signal",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232451482,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.363282608157,
+          47.568347463845
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-19",
+        "Report Number": "3927963",
+        "Participant Type": "Pedestrian",
+        "Age": "NA",
+        "Injury Severity": "Unknown",
+        "Pedestrian Action": "Crossing at Intersection with Signal",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232453358,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.345366471761,
+          47.7050532625134
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-02",
+        "Report Number": "EF89832",
+        "Participant Type": "Pedestrian",
+        "Age": 38,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "All Other Actions",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232451497,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335555422426,
+          47.5964759205854
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-01",
+        "Report Number": "3924527",
+        "Participant Type": "Pedestrian",
+        "Age": 31,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Crossing at Intersection with Signal",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232451517,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.376135002517,
+          47.5692929844703
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-17",
+        "Report Number": "3932576",
+        "Participant Type": "Pedestrian",
+        "Age": 42,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Fell or Pushed into Path of Vehicle",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232451524,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.327880763957,
+          47.6242821106173
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-25",
+        "Report Number": "EF94567",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 33,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Non DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232454098,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.296188092311,
+          47.5783471461808
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-18",
+        "Report Number": "EF97872",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 27,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "Other",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232453415,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.353830757839,
+          47.6176994108749
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-14",
+        "Report Number": "EG03018",
+        "Participant Type": "Pedestrian",
+        "Age": 44,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Crossing at Intersection - No Signal",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232454110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.311529603484,
+          47.5958738817516
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-24",
+        "Report Number": "EG13112",
+        "Participant Type": "Pedestrian",
+        "Age": 29,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Walking on Roadway Shoulder Opposite Traffic",
+        "Helmet Usage": "Unknown if DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232453435,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.366179902954,
+          47.6679124974325
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-17",
+        "Report Number": "EG10788",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 26,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Riding Against Traffic",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232452823,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.344976880538,
+          47.7232115474599
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-04",
+        "Report Number": "3930064",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 23,
+        "Injury Severity": "Unknown",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Other",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232451539,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3486504624,
+          47.6978200755434
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-14",
+        "Report Number": "3930071",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 12,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing Diagonally",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232452872,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.322444692575,
+          47.5991861297073
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-24",
+        "Report Number": "EF95976",
+        "Participant Type": "Pedestrian",
+        "Age": 64,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Crossing at Intersection with Signal",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232453504,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.345366471761,
+          47.7050532625134
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-02",
+        "Report Number": "EG06759",
+        "Participant Type": "Pedestrian",
+        "Age": "NA",
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Fell or Pushed into Path of Vehicle",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232454225,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.345422230303,
+          47.5715185798638
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-09-06",
+        "Report Number": "3937387",
+        "Participant Type": "Pedestrian",
+        "Age": 66,
+        "Injury Severity": "Dead On Arrival",
+        "Pedestrian Action": "All Other Actions",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232452899,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.313407142173,
+          47.5983312422289
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-09",
+        "Report Number": "EF99345",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 29,
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "Unknown if DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232454227,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320933325272,
+          47.6236989787098
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-24",
+        "Report Number": "EG14176",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 35,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Other",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232454893,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.382127310583,
+          47.6738272932892
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-10",
+        "Report Number": "EG01487",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 31,
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "Unknown if DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232452915,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3762156978,
+          47.6678913444185
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-06",
+        "Report Number": "3889409",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 33,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232454253,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.376147920105,
+          47.6371900298877
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-22",
+        "Report Number": "3898784",
+        "Participant Type": "Pedestrian",
+        "Age": 41,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Crossing -  Non Intersection - No Crosswalk",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232453567,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.276394206486,
+          47.5261188669081
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-23",
+        "Report Number": "EF94847",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 14,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "All Other Actions",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232452964,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.384377736271,
+          47.5100533919457
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-08-11",
+        "Report Number": "3932594",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 35,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Other",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232454906,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36269511188,
+          47.6221402692916
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-23",
+        "Report Number": "EG04974",
+        "Participant Type": "Pedestrian",
+        "Age": 27,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Crossing at Intersection Against Signal",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232454321,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.327666995023,
+          47.599194923771
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-30",
+        "Report Number": "EF99388",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 33,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Unknown if DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232454976,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3983094569,
+          47.6421728879106
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-01",
+        "Report Number": "3929160",
+        "Participant Type": "Pedestrian",
+        "Age": 11,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing -  Non Intersection - No Crosswalk",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232454983,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.362105701593,
+          47.570040133478
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-13",
+        "Report Number": "EG03880",
+        "Participant Type": "Pedestrian",
+        "Age": 58,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Crossing at Intersection - No Signal",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232454405,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.287094783646,
+          47.5512323009289
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-08-26",
+        "Report Number": "EG23299",
+        "Participant Type": "Pedestrian",
+        "Age": 13,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "At Intersection Not Using Crosswalk",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232453106,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.325891458728,
+          47.6397270213523
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-15",
+        "Report Number": "3924578",
+        "Participant Type": "Pedestrian",
+        "Age": 43,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing at Intersection with Signal",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232453695,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.319434665348,
+          47.6129400165198
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-12",
+        "Report Number": "EG09713",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 25,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232453143,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333172246556,
+          47.6030193931851
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-20",
+        "Report Number": "3924511",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 26,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232453167,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.317227979073,
+          47.5983375931062
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-09-14",
+        "Report Number": "3924713",
+        "Participant Type": "Pedestrian",
+        "Age": "NA",
+        "Injury Severity": "Died At Hospital",
+        "Pedestrian Action": "Crossing at Intersection with Signal",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455629,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.347568097506,
+          47.6244951339753
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-08-01",
+        "Report Number": "3933898",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 27,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232453743,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335910765281,
+          47.6000461107869
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-30",
+        "Report Number": "EF99332",
+        "Participant Type": "Pedestrian",
+        "Age": 61,
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "Crossing at Intersection with Signal",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455636,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334060832405,
+          47.6140565611544
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-27",
+        "Report Number": "3937246",
+        "Participant Type": "Pedal cycle driver",
+        "Age": "NA",
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "Unknown if DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232454510,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.312209756386,
+          47.7003416264515
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-05",
+        "Report Number": "EF95698",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 67,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455646,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.292853224915,
+          47.5508491542536
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-20",
+        "Report Number": "EG14035",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 63,
+        "Injury Severity": "No Injury",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Other",
+        "Clothing Visibility": "Other Reflective Apparel - Shoes, Patches",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232453755,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.347256306773,
+          47.6720800216188
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-09-29",
+        "Report Number": "3936982",
+        "Participant Type": "Pedestrian",
+        "Age": 63,
+        "Injury Severity": "Dead On Arrival",
+        "Pedestrian Action": "Crossing -  Non Intersection - No Crosswalk",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232453757,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.317227352339,
+          47.5979185825902
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-28",
+        "Report Number": "3924492",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 40,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455067,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337541074853,
+          47.6077956122449
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-08",
+        "Report Number": "EF99549",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 43,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Unknown if DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232454558,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.278721419874,
+          47.5116458144957
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-08-29",
+        "Report Number": "3943307",
+        "Participant Type": "Pedestrian",
+        "Age": 23,
+        "Injury Severity": "Dead At Scene",
+        "Pedestrian Action": "All Other Actions",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455086,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.329822432144,
+          47.6144572423017
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-08-08",
+        "Report Number": "3924627",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 34,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455095,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.331761292795,
+          47.5341519479209
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-22",
+        "Report Number": "EF93950",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 80,
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232453837,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.281293190688,
+          47.5370423042619
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-25",
+        "Report Number": "EF96588",
+        "Participant Type": "Pedestrian",
+        "Age": 38,
+        "Injury Severity": "No Injury",
+        "Pedestrian Action": "Crossing at Intersection with Signal",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455101,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320924261329,
+          47.6231289213238
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-29",
+        "Report Number": "3937234",
+        "Participant Type": "Pedestrian",
+        "Age": 23,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Crossing at Intersection with Signal",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455102,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320924261329,
+          47.6231289213238
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-29",
+        "Report Number": "3937234",
+        "Participant Type": "Pedestrian",
+        "Age": 21,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Crossing at Intersection with Signal",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "NA",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232453842,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332451281327,
+          47.6072663100627
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-13",
+        "Report Number": "EG03836",
+        "Participant Type": "Pedestrian",
+        "Age": 28,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Crossing at Intersection Against Signal",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334819489648,
+          47.612367731611
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-18",
+        "Report Number": "3924553",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 20,
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "All Other Actions",
+        "Helmet Usage": "DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232454697,
+      "geometry": null,
+      "properties": {
+        "Incident Date": "2025-07-14",
+        "Report Number": "3924510",
+        "Participant Type": "Pedestrian",
+        "Age": 16,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Crossing at Intersection - No Signal",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455118,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.305466724973,
+          47.6975688559957
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-27",
+        "Report Number": "3925749",
+        "Participant Type": "Pedal cycle driver",
+        "Age": "NA",
+        "Injury Severity": "No Injury",
+        "Pedestrian Action": "All Other Actions",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455764,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.292433451494,
+          47.7337528088204
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-09-08",
+        "Report Number": "EG26754",
+        "Participant Type": "Pedestrian",
+        "Age": "NA",
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing at Intersection with Signal",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455138,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339357006548,
+          47.6097805706272
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-02",
+        "Report Number": "EF89648",
+        "Participant Type": "Pedestrian",
+        "Age": 25,
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "All Other Actions",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232454731,
+      "geometry": null,
+      "properties": {
+        "Incident Date": "2025-06-24",
+        "Report Number": "3924526",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 34,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455779,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.311944510422,
+          47.6765071122429
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-22",
+        "Report Number": "EG13363",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 43,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Non DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455780,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.311944510422,
+          47.6765071122429
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-22",
+        "Report Number": "EG13363",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 9,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "All Other Actions",
+        "Helmet Usage": "Non DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232454742,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.387584728988,
+          47.6759484985117
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-08-12",
+        "Report Number": "3937263",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 16,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455148,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29763391623,
+          47.592049887096
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-09-13",
+        "Report Number": "3943186",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 69,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "NA",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232453967,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320084736669,
+          47.6062105853235
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-18",
+        "Report Number": "3931542",
+        "Participant Type": "Pedestrian",
+        "Age": 38,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Crossing at Intersection - No Signal",
+        "Helmet Usage": "DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "NA",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232453977,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.296130669333,
+          47.570699000791
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-19",
+        "Report Number": "EF96586",
+        "Participant Type": "Pedestrian",
+        "Age": 48,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing at Intersection with Signal",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232454763,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.372293414744,
+          47.6540015386241
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-09-04",
+        "Report Number": "EG27223",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 43,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455813,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.386238510726,
+          47.6556827156156
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-10-21",
+        "Report Number": "EG41858",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 65,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Cyclist Turned into Path of Vehicle - Same Direction",
+        "Helmet Usage": "DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Retro - Reflective",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232454795,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339669626919,
+          47.6268187448243
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-21",
+        "Report Number": "EG11764",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 54,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Unknown if DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455150,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332598976457,
+          47.6132952158223
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-20",
+        "Report Number": "3931503",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 22,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Non DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Citizen Vehicle Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455162,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.348800387467,
+          47.5714130175603
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-09-16",
+        "Report Number": "3881774",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 41,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456478,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.383402438465,
+          47.6591783162004
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-20",
+        "Report Number": "EF99190",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 31,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Non DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455171,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320739892286,
+          47.6026932995118
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-13",
+        "Report Number": "3931620",
+        "Participant Type": "Pedal cycle driver",
+        "Age": "NA",
+        "Injury Severity": "No Injury",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "Unknown if DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455888,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.344784660641,
+          47.6129378062834
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-19",
+        "Report Number": "EG11763",
+        "Participant Type": "Pedestrian",
+        "Age": 38,
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "Not in Roadway",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456501,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32076121993,
+          47.6121113576291
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-13",
+        "Report Number": "3937203",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 40,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455890,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.344013687634,
+          47.7050503071751
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-31",
+        "Report Number": "EG18690",
+        "Participant Type": "Pedestrian",
+        "Age": 27,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing -  Non Intersection - No Crosswalk",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456506,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.360424540459,
+          47.533691862382
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-08-03",
+        "Report Number": "3932593",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 65,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Unknown if DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455900,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339128941663,
+          47.6197079901873
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-31",
+        "Report Number": "EF98807",
+        "Participant Type": "Pedestrian",
+        "Age": 24,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "All Other Actions",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455210,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.29525042337,
+          47.7210919192107
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-08-14",
+        "Report Number": "EG19396",
+        "Participant Type": "Pedestrian",
+        "Age": 63,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing -  Non Intersection - In Crosswalk",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456509,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332993185647,
+          47.6219735073196
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-21",
+        "Report Number": "EG13626",
+        "Participant Type": "Pedestrian",
+        "Age": 22,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing at Intersection - No Signal",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455927,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.338634549878,
+          47.6257957696018
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-24",
+        "Report Number": "3924499",
+        "Participant Type": "Pedestrian",
+        "Age": 14,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing at Intersection with Signal",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455984,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320739892286,
+          47.6026932995118
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-08-13",
+        "Report Number": "3937196",
+        "Participant Type": "Pedestrian",
+        "Age": 21,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing at Intersection - No Signal",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456613,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332549619772,
+          47.6082115124382
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-19",
+        "Report Number": "EG14183",
+        "Participant Type": "Pedestrian",
+        "Age": 29,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "All Other Actions",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455337,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.340687467644,
+          47.6642898681844
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-01",
+        "Report Number": "EF89289",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 75,
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Unknown if DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456621,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337870640698,
+          47.6064783816207
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-08-03",
+        "Report Number": "3924603",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 34,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Cyclist Turned into Path of Vehicle - Same Direction",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455341,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.347278358214,
+          47.6795952821761
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-15",
+        "Report Number": "EG10787",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 56,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456056,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.331486861,
+          47.6137601937197
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-17",
+        "Report Number": "EG11835",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 44,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "All Other Actions",
+        "Helmet Usage": "DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Retro - Reflective",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456087,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.327395290054,
+          47.5923937798283
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-21",
+        "Report Number": "EF98158",
+        "Participant Type": "Pedestrian",
+        "Age": 38,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing at Intersection Against Signal",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456089,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.310771394327,
+          47.6395618001646
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-08-09",
+        "Report Number": "3937193",
+        "Participant Type": "Pedestrian",
+        "Age": 47,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing at Intersection - No Signal",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456093,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33604389042,
+          47.6028043664
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-08-02",
+        "Report Number": "3924709",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 23,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456623,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.302957372956,
+          47.586716052386
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-08",
+        "Report Number": "3931779",
+        "Participant Type": "Pedestrian",
+        "Age": 30,
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "All Other Actions",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.317484815868,
+          47.6829030412748
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-08-03",
+        "Report Number": "3937257",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 39,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "NA",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456107,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.290192678489,
+          47.6685116554797
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-04",
+        "Report Number": "EG09524",
+        "Participant Type": "Pedestrian",
+        "Age": 86,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Not in Roadway",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456108,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.290192678489,
+          47.6685116554797
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-04",
+        "Report Number": "EG09524",
+        "Participant Type": "Pedestrian",
+        "Age": 39,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Not in Roadway",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456109,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.290192678489,
+          47.6685116554797
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-04",
+        "Report Number": "EG09524",
+        "Participant Type": "Pedestrian",
+        "Age": 38,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Not in Roadway",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456146,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.30950290569,
+          47.6630633081496
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-21",
+        "Report Number": "EG14565",
+        "Participant Type": "Pedestrian",
+        "Age": 33,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "All Other Actions",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456676,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.358008896944,
+          47.6257180744615
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-17",
+        "Report Number": "EG11172",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 34,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Unknown if DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456191,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.331798122688,
+          47.6065527457375
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-31",
+        "Report Number": "EG16580",
+        "Participant Type": "Pedestrian",
+        "Age": 59,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing at Intersection with Signal",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456220,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.317363396324,
+          47.672268987882
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-15",
+        "Report Number": "EG13090",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 29,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455342,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.347278358214,
+          47.6795952821761
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-15",
+        "Report Number": "EG10787",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 38,
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456725,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320780366797,
+          47.6140756666425
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-17",
+        "Report Number": "3937177",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 31,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Unknown if DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455346,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.289140228338,
+          47.5330594424662
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-09-19",
+        "Report Number": "3932394",
+        "Participant Type": "Pedestrian",
+        "Age": 88,
+        "Injury Severity": "Dead At Scene",
+        "Pedestrian Action": "Crossing at Intersection - No Signal",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455363,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.276403254071,
+          47.5233123393002
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-27",
+        "Report Number": "3937328",
+        "Participant Type": "Pedestrian",
+        "Age": 50,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing at Intersection Against Signal",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456291,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.326357078334,
+          47.6000320564242
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-29",
+        "Report Number": "EF99189",
+        "Participant Type": "Pedestrian",
+        "Age": 69,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing -  Non Intersection - In Crosswalk",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455367,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332718165218,
+          47.6169449426024
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-10",
+        "Report Number": "3924678",
+        "Participant Type": "Pedestrian",
+        "Age": 34,
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "Crossing at Intersection with Signal",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456300,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.310949418823,
+          47.5951162835778
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-24",
+        "Report Number": "3937209",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 32,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding Against Traffic",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455389,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33397718464,
+          47.7077552719583
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-21",
+        "Report Number": "EG14568",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 39,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "All Other Actions",
+        "Helmet Usage": "Unknown if DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456354,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.326153219111,
+          47.5462500022996
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-07",
+        "Report Number": "EG01257",
+        "Participant Type": "Pedestrian",
+        "Age": 22,
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "All Other Actions",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456781,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.354103774784,
+          47.6239197561508
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-11",
+        "Report Number": "EF93470",
+        "Participant Type": "Pedestrian",
+        "Age": 47,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing at Intersection with Signal",
+        "Helmet Usage": "NA",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455433,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.287832384943,
+          47.5940490572073
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-08-13",
+        "Report Number": "3937195",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 69,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Other",
+        "Clothing Visibility": "Other Reflective Apparel - Shoes, Patches",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456812,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.366005610786,
+          47.6852816434791
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-25",
+        "Report Number": "EG16653",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 52,
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Unknown if DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456814,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.338449521802,
+          47.6087886547797
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-07-22",
+        "Report Number": "EG16145",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 33,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Unknown if DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455512,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335119843393,
+          47.589271917472
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-06-05",
+        "Report Number": "EF99182",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 29,
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "All Other Actions",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Dark",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456865,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.338753234745,
+          47.6158254548658
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-08-03",
+        "Report Number": "3924517",
+        "Participant Type": "Pedal cycle driver",
+        "Age": "NA",
+        "Injury Severity": "Possible Injury",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456869,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.330729695138,
+          47.6154497182549
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-09",
+        "Report Number": "EF90922",
+        "Participant Type": "Pedestrian",
+        "Age": 46,
+        "Injury Severity": "Serious Injury",
+        "Pedestrian Action": "Crossing at Intersection with Signal",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232456884,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.305716194912,
+          47.6959890764597
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-08-12",
+        "Report Number": "3937262",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 39,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Riding With Traffic",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Mixed",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455566,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.329978771299,
+          47.5920482639445
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-09-07",
+        "Report Number": "EG26343",
+        "Participant Type": "Pedestrian",
+        "Age": 67,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Walking In Roadway with Traffic",
+        "Helmet Usage": "Helmet Not Used",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232455605,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337893629211,
+          47.6164902045335
+        ]
+      },
+      "properties": {
+        "Incident Date": "2025-05-28",
+        "Report Number": "EF99188",
+        "Participant Type": "Pedal cycle driver",
+        "Age": 37,
+        "Injury Severity": "Non Serious Injury (Evident Injury)",
+        "Pedestrian Action": "Crossing or Entering Trafficway",
+        "Helmet Usage": "Unknown if DOT Compliant Motorcycle Helmet",
+        "Clothing Visibility": "Light",
+        "Source Description": "Police Traffic Collision Report"
+      }
+    }
+  ]
+}
