@@ -7,8 +7,8 @@ L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
     attribution: '© Mapbox © OpenStreetMap',
     tileSize: 512,
     zoomOffset: -1,
-    id: 'mapbox://styles/willyh23/cmigyk5mh00bk01svavz7gxc9', // Replace with your Mapbox style ID
-    accessToken: 'pk.eyJ1Ijoid2lsbHloMjMiLCJhIjoiY21obDBjN2ttMW1kdDJxcHI3a2s3YjR1dCJ9.1afNW3K_mxg4u55J1MPeaA' // Replace with your Mapbox token
+    id: 'mapbox://styles/willyh23/cmigyk5mh00bk01svavz7gxc9', 
+    accessToken: 'pk.eyJ1Ijoid2lsbHloMjMiLCJhIjoiY21obDBjN2ttMW1kdDJxcHI3a2s3YjR1dCJ9.1afNW3K_mxg4u55J1MPeaA' 
 }).addTo(map);
 
 // --- Load GeoJSON layers ---
