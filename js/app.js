@@ -3,9 +3,9 @@ mapboxgl.accessToken = 'pk.eyJ1IjoieWowNTA1IiwiYSI6ImNtaGVhZm13NzBiZHAyaXBwNnVia
 
 const map = new mapboxgl.Map({
     container: 'map',
-    style: 'mapbox://styles/mapbox/standard', // Your custom Mapbox style
+    style: 'mapbox://styles/mapbox/light-v10', // Your custom Mapbox style
     center: [-122.3321, 47.6062], // Seattle
-    zoom: 12
+    zoom: 10.5
 });
 
 map.addControl(new mapboxgl.NavigationControl());
@@ -40,13 +40,13 @@ map.on('load', () => {
                 new mapboxgl.Popup()
                     .setLngLat(e.lngLat)
                     .setHTML(`
-                        <b>Incident Date:</b> ${props["incident date"]}<br>
-                        <b>Report #:</b> ${props["report number"]}<br>
-                        <b>Vehicle Type:</b> ${props["vehicle type"]}<br>
-                        <b>Severity:</b> ${props["injury severity"]}
+                        <b>Incident Date:</b> ${props["Incident Date"]}<br>
+                        <b>Report #:</b> ${props["Report Number"]}<br>
+                        <b>Vehicle Type:</b> ${props["Vehicle Type"]}<br>
                     `)
                     .addTo(map);
             });
+            
 
             map.on('mouseenter', 'vehicle-collisions-layer', () => map.getCanvas().style.cursor = 'pointer');
             map.on('mouseleave', 'vehicle-collisions-layer', () => map.getCanvas().style.cursor = '');
