@@ -19,7 +19,7 @@ const timeline = {
 
 const map = new mapboxgl.Map({
   container: "map",
-  style: "mapbox://styles/wteng0212/cmip6nc9700e701stentzdc9x",
+  style: "mapbox://styles/wteng0212/cmip7k46t000201si4ik736x1",
   center: [-122.3321, 47.6170],
   zoom: 10.3,
 });
