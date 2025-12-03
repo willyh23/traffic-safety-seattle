@@ -1,0 +1,97 @@
+/* ------------------------------
+   GLOBAL STYLES
+------------------------------ */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #071e36;   /* deep navy background */
+    color: #e6edf5;              /* soft light text */
+}
+
+/* Page container */
+.page-container {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* ------------------------------
+   TOP NAVIGATION
+------------------------------ */
+.top-nav {
+    display: flex;
+    gap: 25px;
+    padding: 20px 30px;
+    background-color: transparent;
+}
+
+.nav-link {
+    color: #d5e5ff;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 500;
+    padding-bottom: 3px;
+    transition: 0.2s;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.nav-link.active {
+    border-bottom: 2px solid #7cb9ff; /* highlight active tab */
+    color: #ffffff;
+}
+
+/* ------------------------------
+   CONTENT CARD
+------------------------------ */
+.content-card {
+    background-color: #0d2c4c;    /* card color */
+    width: 70%;
+    margin: 40px auto;
+    padding: 35px;
+    border-radius: 12px;
+    box-shadow: 0 0 18px rgba(0, 0, 0, 0.25);
+}
+
+.content-card h1 {
+    margin-top: 0;
+    font-size: 28px;
+    color: #ffffff;
+}
+
+.content-card p {
+    line-height: 1.6;
+    margin-bottom: 18px;
+    color: #e1eaf2;
+}
+
+/* ------------------------------
+   TEAM GRID (NO BULLET POINTS)
+------------------------------ */
+.team-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(150px, 1fr));
+    gap: 10px 30px;
+    margin-top: 10px;
+}
+
+.team-grid div {
+    padding: 8px 0;
+    color: #dce8f7;
+    font-size: 16px;
+}
+
+/* ------------------------------
+   FOOTER
+------------------------------ */
+.footer {
+    text-align: center;
+    padding: 20px 0;
+    margin-top: auto;
+    font-size: 14px;
+    color: #b8c3d4;
+}
