@@ -5,8 +5,8 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background-color: #071e36;   /* deep navy background */
-    color: #e6edf5;              /* soft light text */
+    background-color: #071e36;
+    color: #E3E3E3;
 }
 
 /* Page container */
@@ -20,36 +20,35 @@ body {
 /* ------------------------------
    TOP NAVIGATION
 ------------------------------ */
-.top-nav {
-    display: flex;
-    gap: 25px;
-    padding: 20px 30px;
-    background-color: transparent;
+nav ul {
+    list-style: none;
+    padding-left: 20px;
 }
 
-.nav-link {
-    color: #d5e5ff;
-    text-decoration: none;
-    font-size: 17px;
-    font-weight: 500;
-    padding-bottom: 3px;
-    transition: 0.2s;
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
 }
 
-.nav-link:hover {
-    color: white;
-}
-
-.nav-link.active {
-    border-bottom: 2px solid #7cb9ff; /* highlight active tab */
+nav a {
     color: #ffffff;
+    font-size: 18px;
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    padding-bottom: 4px;
 }
+
+nav a:hover {           /* Hover effect for nav links */
+    border-bottom: 2px solid #4da6ff; 
+    color: gray;
+}
+        
 
 /* ------------------------------
    CONTENT CARD
 ------------------------------ */
 .content-card {
-    background-color: #0d2c4c;    /* card color */
+    background-color: #0d2c4c;
     width: 70%;
     margin: 40px auto;
     padding: 35px;
@@ -94,4 +93,62 @@ body {
     margin-top: auto;
     font-size: 14px;
     color: #b8c3d4;
+}
+
+/* ------------------------------
+   CUSTOM MAPBOX POPUP STYLES
+------------------------------ */
+.mapboxgl-popup.custom-popup .mapboxgl-popup-content {
+  background-color: #002455;
+  color: #E3E3E3;
+  border-radius: 8px;
+  font-size: 13px;
+}
+
+.mapboxgl-popup.custom-popup .mapboxgl-popup-close-button {
+  color: #E3E3E3;       /* Close button to white */
+  font-weight: bold;
+}
+
+/* ------------------------------
+   LEGEND STYLES
+------------------------------ */
+.legend {
+    position: absolute;
+    bottom: 30px;
+    left: 20px;
+    background: #002455;
+    padding: 15px;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    border-radius: 4px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+}
+
+.legend div {
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.legend span {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+}
+
+/* -------------------------------------
+   SECTION HEADER STYLES FOR ABOUT PAGE
+------------------------------------- */
+.section-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.section-image {
+  width: 75px;
+  height: 75px;
+  object-fit: contain;
 }
