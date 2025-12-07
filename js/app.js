@@ -212,10 +212,10 @@ async function addVehicleLayers() {
 
   map.on("click", "vehicle-collisions-layer", (e) => {
     const props = e.features?.[0]?.properties || {};
-    new mapboxgl.Popup()
+    new mapboxgl.Popup({ className: 'custom-popup' })
       .setLngLat(e.lngLat)
       .setHTML(`
-        <div style="font-size:12px;line-height:1.4">
+        <div class="popup-content">
           <b>Incident Date:</b> ${propOrDash(props, "Incident Date")}<br>
           <b>Report #:</b> ${propOrDash(props, "Report Number")}<br>
           <b>Vehicle Type:</b> ${propOrDash(props, "Vehicle Type")}<br>
@@ -297,10 +297,10 @@ async function addPersonLayers() {
 
   map.on("click", "person-collisions-layer", (e) => {
     const props = e.features?.[0]?.properties || {};
-    new mapboxgl.Popup()
+    new mapboxgl.Popup({ className: 'custom-popup' })
       .setLngLat(e.lngLat)
       .setHTML(`
-        <div style="font-size:12px;line-height:1.4">
+        <div class="popup-content">
           <b>Incident Date:</b> ${propOrDash(props, "Incident Date")}<br>
           <b>Report #:</b> ${propOrDash(props, "Report Number")}<br>
           <b>Participant Type:</b> ${propOrDash(props, "Participant Type")}<br>
@@ -340,10 +340,10 @@ function setupTimeSlider() {
   overlay.style.top = "12px";
   overlay.style.left = "12px";
   overlay.style.zIndex = "2";
-  overlay.style.background = "rgba(255,255,255,0.95)";
-  overlay.style.border = "1px solid rgba(0,0,0,0.12)";
+  overlay.style.background = "#002455";
+  overlay.style.border = "1px solid rgba(0,0,0,0.3)";
   overlay.style.borderRadius = "10px";
-  overlay.style.boxShadow = "0 2px 10px rgba(0,0,0,0.12)";
+  overlay.style.boxShadow = "0 0 5px rgba(0,0,0,0.3)";
   overlay.style.padding = "10px 12px";
   overlay.style.width = "260px";
   overlay.style.font = "12px/1.3 -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif";
